@@ -6,7 +6,7 @@
 | Name | Release | Description |
 | --- | --- | --- |
 | [Docker][docker_repo] | [![Docker][docker_badge]][docker_release] | Docker CE |
-| [cni_plugins][cni_plugins_repo] | [![cni_plugins][cni_pluginsr_badge]][cni_plugins_release] | containernetworking |
+| [cni_plugins][cni_plugins_repo] | [![cni_plugins][cni_pluginsr_badge]][cni_plugins_release] | Container Networking |
 
 ## Applications
 
