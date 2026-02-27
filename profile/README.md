@@ -6,6 +6,7 @@
 | Name | Release | Description |
 | --- | --- | --- |
 | [Docker][docker_repo] | [![Docker][docker_badge]][docker_release] | Docker CE |
+| [cni_plugins][cni_plugins_repo] | [![cni_plugins][cni_pluginsr_badge]][cni_plugins_release] | containernetworking |
 
 ## Applications
 
@@ -26,6 +27,9 @@
 [docker_repo]: https://github.com/loongarch64-releases/docker
 [docker_release]: https://github.com/loongarch64-releases/docker/releases
 [docker_badge]: https://img.shields.io/github/v/release/loongarch64-releases/docker
+[cni_plugins_repo]: https://github.com/loongarch64-releases/cni-plugins
+[cni_plugins_release]: https://github.com/loongarch64-releases/cni-plugins/releases
+[cni_pluginsr_badge]: https://img.shields.io/github/v/release/loongarch64-releases/cni-plugins
 [es_repo]: https://github.com/loongarch64-releases/elasticsearch
 [es_release]: https://github.com/loongarch64-releases/elasticsearch/releases
 [es_badge]: https://img.shields.io/github/v/release/loongarch64-releases/elasticsearch
